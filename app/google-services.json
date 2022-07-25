@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924235239599",
+    "project_id": "abhilok-89c67",
+    "storage_bucket": "abhilok-89c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924235239599:android:09f125d58dafed4caac45a",
+        "android_client_info": {
+          "package_name": "com.tomar.abhilok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924235239599-2g560vcf7nsbidiiqr2ohokds2gtdk0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdbO1XEx86jHMJ_fF08TNoOlcYPaB8xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924235239599-2g560vcf7nsbidiiqr2ohokds2gtdk0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
